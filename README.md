@@ -32,7 +32,7 @@ JsonPowerDB is a NoSQL database that provides several advantages for this projec
 
 ## Illustrations
 
-![Screenshot 1](screenshot.png)
+![Screenshot 1](Screenshot.png)
 *Caption: Student Enrollment Form*
 
 ## Scope of Functionalities
